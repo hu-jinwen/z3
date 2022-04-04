@@ -92,3 +92,7 @@ examples/**/obj
 CMakeSettings.json
 # Editor temp files
 *.swp
+
+
+# IDE
+.idea
